@@ -1,0 +1,10 @@
+{
+  "name": "sketch-icons-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-sketch": "0.0.10"
+  }
+}
