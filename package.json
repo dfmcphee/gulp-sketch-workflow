@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-imagemin": "^2.3.0",
-    "gulp-sketch": "0.0.10"
+    "gulp-sketch": "0.0.10",
+    "imagemin-svgo": "^4.1.2"
   }
 }
